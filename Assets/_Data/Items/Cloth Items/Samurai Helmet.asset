@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cabbf3c2f379ef546b9f5836f0b15d0f, type: 3}
+  m_Name: Samurai Helmet
+  m_EditorClassIdentifier: 
+  clothType: {fileID: 11400000, guid: b86041bc1a1a7f94ea7e9e49c714e8ac, type: 2}
+  mesh: {fileID: 4300000, guid: 638d4d0697254ea48806e99ce6b7b4cb, type: 3}
+  clothMaterial: {fileID: 2100000, guid: ca3a18f44cc2fb3488bd21a229257294, type: 2}
